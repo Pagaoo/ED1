@@ -1,0 +1,13 @@
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\bin\Debug\netcoreapp3.1\ListaTelefonicV2.exe
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\bin\Debug\netcoreapp3.1\ListaTelefonicV2.deps.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\bin\Debug\netcoreapp3.1\ListaTelefonicV2.runtimeconfig.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\bin\Debug\netcoreapp3.1\ListaTelefonicV2.runtimeconfig.dev.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\bin\Debug\netcoreapp3.1\ListaTelefonicV2.dll
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\bin\Debug\netcoreapp3.1\ListaTelefonicV2.pdb
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\obj\Debug\netcoreapp3.1\ListaTelefonicV2.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\obj\Debug\netcoreapp3.1\ListaTelefonicV2.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\obj\Debug\netcoreapp3.1\ListaTelefonicV2.AssemblyInfo.cs
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\obj\Debug\netcoreapp3.1\ListaTelefonicV2.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\obj\Debug\netcoreapp3.1\ListaTelefonicV2.dll
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\obj\Debug\netcoreapp3.1\ListaTelefonicV2.pdb
+C:\Users\adm\Desktop\Ciência da Computação\C#\ListaTelefonicV2\obj\Debug\netcoreapp3.1\ListaTelefonicV2.genruntimeconfig.cache
