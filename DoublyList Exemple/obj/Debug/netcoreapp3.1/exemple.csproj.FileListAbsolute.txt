@@ -1,0 +1,13 @@
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\bin\Debug\netcoreapp3.1\exemple.exe
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\bin\Debug\netcoreapp3.1\exemple.deps.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\bin\Debug\netcoreapp3.1\exemple.runtimeconfig.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\bin\Debug\netcoreapp3.1\exemple.runtimeconfig.dev.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\bin\Debug\netcoreapp3.1\exemple.dll
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\bin\Debug\netcoreapp3.1\exemple.pdb
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\obj\Debug\netcoreapp3.1\exemple.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\obj\Debug\netcoreapp3.1\exemple.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\obj\Debug\netcoreapp3.1\exemple.AssemblyInfo.cs
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\obj\Debug\netcoreapp3.1\exemple.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\obj\Debug\netcoreapp3.1\exemple.dll
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\obj\Debug\netcoreapp3.1\exemple.pdb
+C:\Users\adm\Desktop\Ciência da Computação\C#\exemple\obj\Debug\netcoreapp3.1\exemple.genruntimeconfig.cache
