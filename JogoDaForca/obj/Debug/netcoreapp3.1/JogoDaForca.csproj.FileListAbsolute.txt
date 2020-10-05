@@ -1,0 +1,13 @@
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\bin\Debug\netcoreapp3.1\JogoDaForca.exe
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\bin\Debug\netcoreapp3.1\JogoDaForca.deps.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\bin\Debug\netcoreapp3.1\JogoDaForca.runtimeconfig.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\bin\Debug\netcoreapp3.1\JogoDaForca.runtimeconfig.dev.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\bin\Debug\netcoreapp3.1\JogoDaForca.dll
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\bin\Debug\netcoreapp3.1\JogoDaForca.pdb
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\obj\Debug\netcoreapp3.1\JogoDaForca.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\obj\Debug\netcoreapp3.1\JogoDaForca.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\obj\Debug\netcoreapp3.1\JogoDaForca.AssemblyInfo.cs
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\obj\Debug\netcoreapp3.1\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\obj\Debug\netcoreapp3.1\JogoDaForca.dll
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\obj\Debug\netcoreapp3.1\JogoDaForca.pdb
+C:\Users\adm\Desktop\Ciência da Computação\C#\JogoDaForca\obj\Debug\netcoreapp3.1\JogoDaForca.genruntimeconfig.cache

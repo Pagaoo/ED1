@@ -1,0 +1,13 @@
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\bin\Debug\netcoreapp3.1\Aula2Arrays.exe
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\bin\Debug\netcoreapp3.1\Aula2Arrays.deps.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\bin\Debug\netcoreapp3.1\Aula2Arrays.runtimeconfig.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\bin\Debug\netcoreapp3.1\Aula2Arrays.runtimeconfig.dev.json
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\bin\Debug\netcoreapp3.1\Aula2Arrays.dll
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\bin\Debug\netcoreapp3.1\Aula2Arrays.pdb
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\obj\Debug\netcoreapp3.1\Aula2Arrays.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\obj\Debug\netcoreapp3.1\Aula2Arrays.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\obj\Debug\netcoreapp3.1\Aula2Arrays.AssemblyInfo.cs
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\obj\Debug\netcoreapp3.1\Aula2Arrays.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\obj\Debug\netcoreapp3.1\Aula2Arrays.dll
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\obj\Debug\netcoreapp3.1\Aula2Arrays.pdb
+C:\Users\adm\Desktop\Ciência da Computação\C#\Aula2Arrays\obj\Debug\netcoreapp3.1\Aula2Arrays.genruntimeconfig.cache
